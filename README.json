@@ -1,0 +1,898 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distrobox",
+          "description": "Use any Linux distribution inside your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T19:27:03Z",
+            "owner": "89luca89",
+            "repo": "distrobox",
+            "stars": 12854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamTinkerLaunch",
+          "description": "Advanced game launch customization and tweaking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-27T04:58:14Z",
+            "owner": "sonic2kk",
+            "repo": "steamtinkerlaunch",
+            "stars": 2829
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam ROM Manager",
+          "description": "An app for managing ROMs in Steam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:46:52Z",
+            "owner": "SteamGridDB",
+            "repo": "steam-rom-manager",
+            "stars": 2528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Protontricks",
+          "description": "Configure Proton prefixes for Steam games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:05:03Z",
+            "owner": "Matoking",
+            "repo": "protontricks",
+            "stars": 2288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoilR",
+          "description": "Synchronize non-Steam games with your Steam library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-23T00:52:10Z",
+            "owner": "PhilipK",
+            "repo": "BoilR",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flatseal",
+          "description": "Manage Flatpak permissions with a GUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T11:48:52Z",
+            "owner": "tchx84",
+            "repo": "Flatseal",
+            "stars": 1742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GOverlay",
+          "description": "Graphical UI for MangoHud configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2026-08-08T03:01:22Z",
+            "owner": "benjamimgois",
+            "repo": "goverlay",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clover",
+          "description": "Graphical boot manager for the Steam Deck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-14T19:42:19Z",
+            "owner": "ryanrudolfoba",
+            "repo": "SteamDeck-Clover-dualboot",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamGridDB Manager",
+          "description": "Apply artwork for non-Steam games automatically.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-31T07:47:59Z",
+            "owner": "SteamGridDB",
+            "repo": "steamgriddb-manager",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rwfus",
+          "description": "Read and write OverlayFS for Steam Deck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-24T22:16:48Z",
+            "owner": "ValShaped",
+            "repo": "rwfus",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam Deck Printing Rootless",
+          "description": "Utility that lets you print on the Steam Deck rootlessly and that survives updates as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-03-05T01:47:20Z",
+            "owner": "Tymose",
+            "repo": "Steam-Deck-Printing-ROOTLESS",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MangoHud",
+          "description": "Vulkan/OpenGL performance overlay (FPS, temps, CPU/GPU usage).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T22:06:05Z",
+            "owner": "flightlessmango",
+            "repo": "MangoHud",
+            "stars": 8931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gamescope",
+          "description": "Micro-compositor for resolution scaling, frame limiting, and latency improvements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:08:29Z",
+            "owner": "ValveSoftware",
+            "repo": "gamescope",
+            "stars": 4983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerTools",
+          "description": "Decky plugin for advanced CPU, GPU, and power management.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-08-09T00:55:29Z",
+            "owner": "NGnius",
+            "repo": "PowerTools",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleDeckyTDP",
+          "description": "Decky plugin with simplified TDP controls for Steam Deck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T21:13:39Z",
+            "owner": "aarron-lee",
+            "repo": "SimpleDeckyTDP",
+            "stars": 276
+          }
+        }
+      ],
+      "title": "Performance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSS Loader",
+          "description": "Decky plugin to apply custom themes to Steam Deck UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-16T21:46:22Z",
+            "owner": "DeckThemes",
+            "repo": "SDH-CssLoader",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio Loader",
+          "description": "Decky plugin for custom boot and suspend sounds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-22T21:35:37Z",
+            "owner": "DeckThemes",
+            "repo": "SDH-AudioLoader",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Customization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shadPS4",
+          "description": "PS4 Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T06:46:25Z",
+            "owner": "shadps4-emu",
+            "repo": "shadPS4",
+            "stars": 32465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RPCS3",
+          "description": "PS3 Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T09:55:39Z",
+            "owner": "RPCS3",
+            "repo": "rpcs3",
+            "stars": 19453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dolphin",
+          "description": "Gamecube/Wii Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T03:36:36Z",
+            "owner": "dolphin-emu",
+            "repo": "dolphin",
+            "stars": 15392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCSX2",
+          "description": "PS2 Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T16:35:19Z",
+            "owner": "PCSX2",
+            "repo": "pcsx2",
+            "stars": 15318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PPSSPP",
+          "description": "PSP Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T09:37:40Z",
+            "owner": "hrydgard",
+            "repo": "ppsspp",
+            "stars": 14248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroArch",
+          "description": "Frontend for emulators, game engines and media players.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T05:04:50Z",
+            "owner": "libretro",
+            "repo": "RetroArch",
+            "stars": 13511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckStation",
+          "description": "Fast and accurate PlayStation 1 emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:20:35Z",
+            "owner": "stenzek",
+            "repo": "duckstation",
+            "stars": 10533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAME",
+          "description": "Arcade machine emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:31:25Z",
+            "owner": "mamedev",
+            "repo": "mame",
+            "stars": 10401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cemu",
+          "description": "Wii U emulator with excellent compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T20:50:38Z",
+            "owner": "cemu-project",
+            "repo": "Cemu",
+            "stars": 9681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vita3K",
+          "description": "PS Vita Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T20:43:13Z",
+            "owner": "Vita3K",
+            "repo": "Vita3K",
+            "stars": 5598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "melonDS",
+          "description": "Nintendo DS emulator with local multiplayer support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-30T23:55:02Z",
+            "owner": "melonDS-emu",
+            "repo": "melonDS",
+            "stars": 4931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xemu",
+          "description": "Xbox Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T06:26:22Z",
+            "owner": "xemu-project",
+            "repo": "xemu",
+            "stars": 4044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeSmuME",
+          "description": "Nintendo DS Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T00:03:52Z",
+            "owner": "TASEmulators",
+            "repo": "desmume",
+            "stars": 3609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmuDeck",
+          "description": "Emulator configurator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T15:18:09Z",
+            "owner": "dragoonDorise",
+            "repo": "EmuDeck",
+            "stars": 3485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flycast",
+          "description": "Sega Dreamcast/Naomi emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:20:56Z",
+            "owner": "flyinghead",
+            "repo": "flycast",
+            "stars": 2440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bsnes",
+          "description": "SNES Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-23T06:55:52Z",
+            "owner": "bsnes-emu",
+            "repo": "bsnes",
+            "stars": 1968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroDECK",
+          "description": "All-in-one sandboxed application to play your retro games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T20:51:27Z",
+            "owner": "RetroDECK",
+            "repo": "RetroDECK",
+            "stars": 1244
+          }
+        }
+      ],
+      "title": "Emulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prism Launcher",
+          "description": "Minecraft launcher with mod support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:18:05Z",
+            "owner": "PrismLauncher",
+            "repo": "PrismLauncher",
+            "stars": 10115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bottles",
+          "description": "Run Windows software and games under Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:27:48Z",
+            "owner": "bottlesdevs",
+            "repo": "Bottles",
+            "stars": 8696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Legendary",
+          "description": "CLI launcher for Epic Games Store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:27:40Z",
+            "owner": "legendary-gl",
+            "repo": "legendary",
+            "stars": 5265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NonSteamLaunchers",
+          "description": "Automatic installation of the most popular launchers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T02:39:56Z",
+            "owner": "moraroy",
+            "repo": "NonSteamLaunchers-On-Steam-Deck",
+            "stars": 4338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minigalaxy",
+          "description": "Lightweight GOG client for Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T06:57:14Z",
+            "owner": "sharkwouter",
+            "repo": "minigalaxy",
+            "stars": 1325
+          }
+        }
+      ],
+      "title": "Launcher"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LocalSend",
+          "description": "Open source app to share files between devices over your local network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-13T01:31:25Z",
+            "owner": "localsend",
+            "repo": "localsend",
+            "stars": 88136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunshine",
+          "description": "Self-hosted game stream host (pairs with Moonlight).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:49:42Z",
+            "owner": "LizardByte",
+            "repo": "Sunshine",
+            "stars": 40135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonlight",
+          "description": "Stream games from PC with NVIDIA GPU.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T05:43:03Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-qt",
+            "stars": 18266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDE Connect",
+          "description": "Multi-platform app that allows your devices to communicate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:04:49Z",
+            "owner": "KDE",
+            "repo": "kdeconnect-kde",
+            "stars": 3916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenlight",
+          "description": "An open source client for streaming Xbox Cloud and Xbox Home.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:56:14Z",
+            "owner": "unknownskl",
+            "repo": "greenlight",
+            "stars": 2832
+          }
+        }
+      ],
+      "title": "Remote"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Syncthing",
+          "description": "Open source continuous file synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:08:02Z",
+            "owner": "syncthing",
+            "repo": "syncthing",
+            "stars": 87635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenCloudSaves",
+          "description": "A tool used for syncing your save games across your devices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-01-20T18:07:48Z",
+            "owner": "DavidDeSimone",
+            "repo": "OpenCloudSaves",
+            "stars": 389
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CompSize",
+          "description": "Check btrfs compression ratios on Steam Deck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-12-25T11:30:56Z",
+            "owner": "kilobyte",
+            "repo": "compsize",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storage Cleaner",
+          "description": "Decky plugin to clean shader cache and temporary files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-08T02:32:07Z",
+            "owner": "mcarlucci",
+            "repo": "decky-storage-cleaner",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "Storage Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ludusavi",
+          "description": "Backup tool for PC game saves.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T04:28:11Z",
+            "owner": "mtkennerly",
+            "repo": "ludusavi",
+            "stars": 6111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryoutilities",
+          "description": "Scripts and utilities to improve performance and manage storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-04T12:12:58Z",
+            "owner": "CryoByte33",
+            "repo": "steam-deck-utilities",
+            "stars": 3530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Steam Deck Shader Cache Killer",
+          "description": "Script to purge Steam Deck shader cache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-08T23:22:42Z",
+            "owner": "scawp",
+            "repo": "Steam-Deck.Shader-Cache-Killer",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shortix",
+          "description": "A script that creates human readable symlinks for Proton game prefixes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-12-22T07:10:54Z",
+            "owner": "Jannomag",
+            "repo": "shortix",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Decky Loader",
+          "description": "Plugin launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T21:26:12Z",
+            "owner": "SteamDeckHomebrew",
+            "repo": "decky-loader",
+            "stars": 7113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SteamGridDB Plugin",
+          "description": "Browse and apply custom game artwork directly from Steam Deck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-09T14:05:36Z",
+            "owner": "SteamGridDB",
+            "repo": "decky-steamgriddb",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VibrantDeck",
+          "description": "Control display saturation and vibrance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-01T10:01:20Z",
+            "owner": "libvibrant",
+            "repo": "vibrantDeck",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pause Games",
+          "description": "Pause any game, even those without native pause functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-21T19:54:11Z",
+            "owner": "popsUlfr",
+            "repo": "SDH-PauseGames",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HLTB for Deck",
+          "description": "How Long to Beat integration showing game completion times.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-20T13:43:31Z",
+            "owner": "hulkrelax",
+            "repo": "hltb-for-deck",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoFlatpaks",
+          "description": "Automatically update Flatpak applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-02T00:04:14Z",
+            "owner": "jurassicplayer",
+            "repo": "decky-autoflatpaks",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoSuspend",
+          "description": "Automatically suspend Steam Deck after inactivity period.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-25T13:03:02Z",
+            "owner": "jurassicplayer",
+            "repo": "decky-autosuspend",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Plugin"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:34:51.937Z",
+    "original_repository": "airscripts/awesome-steam-deck",
+    "original_repository_sha": "d637e540a2fbdd83540a8fb73c581722091d5ba5",
+    "enhanced_repository": "enhansome/enhansome-steam-deck",
+    "enhanced_repository_description": null,
+    "title": "Awesome Steam Deck with stars"
+  }
+}
