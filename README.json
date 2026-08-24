@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12897
+            "stars": 12898
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 236465542,
             "language": "JavaScript",
-            "last_commit": "2026-08-10T11:48:52Z",
+            "last_commit": "2026-08-24T12:18:34Z",
             "owner": "tchx84",
             "repo": "Flatseal",
             "stars": 1763
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-18T10:31:03Z",
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8967
+            "stars": 8969
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 217906370,
             "language": "C++",
-            "last_commit": "2026-08-20T00:35:23Z",
+            "last_commit": "2026-08-24T14:09:45Z",
             "owner": "ValveSoftware",
             "repo": "gamescope",
-            "stars": 5014
+            "stars": 5013
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-23T17:00:37Z",
             "owner": "shadps4-emu",
             "repo": "shadPS4",
-            "stars": 32635
+            "stars": 32637
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-23T16:58:47Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15431
+            "stars": 15432
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-21T17:57:43Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15356
+            "stars": 15358
           }
         },
         {
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 6486826,
             "language": "C++",
-            "last_commit": "2026-08-24T09:13:07Z",
+            "last_commit": "2026-08-24T11:30:11Z",
             "owner": "hrydgard",
             "repo": "ppsspp",
             "stars": 14297
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-24T02:14:39Z",
             "owner": "stenzek",
             "repo": "duckstation",
-            "stars": 10568
+            "stars": 10570
           }
         },
         {
@@ -390,10 +390,10 @@
             "archived": false,
             "id": 14303048,
             "language": "C++",
-            "last_commit": "2026-08-24T08:03:34Z",
+            "last_commit": "2026-08-24T12:55:04Z",
             "owner": "mamedev",
             "repo": "mame",
-            "stars": 10420
+            "stars": 10421
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-21T20:07:42Z",
             "owner": "cemu-project",
             "repo": "Cemu",
-            "stars": 9727
+            "stars": 9728
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-09T20:43:13Z",
             "owner": "Vita3K",
             "repo": "Vita3K",
-            "stars": 5651
+            "stars": 5652
           }
         },
         {
@@ -495,7 +495,7 @@
             "archived": false,
             "id": 131286494,
             "language": "C++",
-            "last_commit": "2026-08-24T02:46:14Z",
+            "last_commit": "2026-08-24T12:43:03Z",
             "owner": "flyinghead",
             "repo": "flycast",
             "stars": 2486
@@ -525,7 +525,7 @@
             "archived": false,
             "id": 468571027,
             "language": "Shell",
-            "last_commit": "2026-08-24T08:39:21Z",
+            "last_commit": "2026-08-24T12:36:17Z",
             "owner": "RetroDECK",
             "repo": "RetroDECK",
             "stars": 1252
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-23T20:45:16Z",
             "owner": "PrismLauncher",
             "repo": "PrismLauncher",
-            "stars": 10206
+            "stars": 10205
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-24T07:33:12Z",
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "stars": 8737
+            "stars": 8739
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-24T00:11:36Z",
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 89207
+            "stars": 89224
           }
         },
         {
@@ -642,10 +642,10 @@
             "archived": false,
             "id": 438803890,
             "language": "C++",
-            "last_commit": "2026-08-24T08:02:40Z",
+            "last_commit": "2026-08-24T13:31:32Z",
             "owner": "LizardByte",
             "repo": "Sunshine",
-            "stars": 40483
+            "stars": 40489
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-19T03:26:12Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-qt",
-            "stars": 18382
+            "stars": 18385
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-24T01:46:31Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3946
+            "stars": 3948
           }
         },
         {
@@ -687,7 +687,7 @@
             "archived": false,
             "id": 386752959,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:56:55Z",
+            "last_commit": "2026-08-24T13:43:34Z",
             "owner": "unknownskl",
             "repo": "greenlight",
             "stars": 2842
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-24T04:29:41Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 87932
+            "stars": 87938
           }
         },
         {
@@ -947,7 +947,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:09:29.885Z",
+    "last_updated": "2026-08-24T14:19:19.201Z",
     "original_repository": "airscripts/awesome-steam-deck",
     "original_repository_id": 664563652,
     "original_repository_sha": "d637e540a2fbdd83540a8fb73c581722091d5ba5",
