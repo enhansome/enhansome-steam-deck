@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T07:47:07Z",
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12909
+            "stars": 12910
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-18T16:39:36Z",
             "owner": "Matoking",
             "repo": "protontricks",
-            "stars": 2297
+            "stars": 2298
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-23T00:52:10Z",
             "owner": "PhilipK",
             "repo": "BoilR",
-            "stars": 1867
+            "stars": 1868
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T12:18:34Z",
             "owner": "tchx84",
             "repo": "Flatseal",
-            "stars": 1765
+            "stars": 1766
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 485818631,
             "language": "Pascal",
-            "last_commit": "2026-08-27T01:43:52Z",
+            "last_commit": "2026-08-27T19:30:44Z",
             "owner": "benjamimgois",
             "repo": "goverlay",
-            "stars": 1457
+            "stars": 1459
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-04-14T19:42:19Z",
             "owner": "ryanrudolfoba",
             "repo": "SteamDeck-Clover-dualboot",
-            "stars": 757
+            "stars": 758
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 217906370,
             "language": "C++",
-            "last_commit": "2026-08-26T19:02:09Z",
+            "last_commit": "2026-08-27T19:52:38Z",
             "owner": "ValveSoftware",
             "repo": "gamescope",
-            "stars": 5022
+            "stars": 5023
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-09-22T21:35:37Z",
             "owner": "DeckThemes",
             "repo": "SDH-AudioLoader",
-            "stars": 43
+            "stars": 44
           }
         }
       ],
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 556675672,
             "language": "C++",
-            "last_commit": "2026-08-26T21:15:34Z",
+            "last_commit": "2026-08-27T15:38:58Z",
             "owner": "shadps4-emu",
             "repo": "shadPS4",
-            "stars": 32666
+            "stars": 32669
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 6520784,
             "language": "C++",
-            "last_commit": "2026-08-26T18:15:42Z",
+            "last_commit": "2026-08-27T19:08:19Z",
             "owner": "RPCS3",
             "repo": "rpcs3",
-            "stars": 19573
+            "stars": 19578
           }
         },
         {
@@ -315,7 +315,7 @@
             "archived": false,
             "id": 11577304,
             "language": "C++",
-            "last_commit": "2026-08-25T19:24:09Z",
+            "last_commit": "2026-08-27T16:48:49Z",
             "owner": "dolphin-emu",
             "repo": "dolphin",
             "stars": 15447
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-24T16:23:57Z",
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15376
+            "stars": 15383
           }
         },
         {
@@ -345,10 +345,10 @@
             "archived": false,
             "id": 6486826,
             "language": "C++",
-            "last_commit": "2026-08-27T07:06:34Z",
+            "last_commit": "2026-08-27T19:04:54Z",
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14311
+            "stars": 14315
           }
         },
         {
@@ -363,7 +363,7 @@
             "last_commit": "2026-08-27T01:30:27Z",
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13578
+            "stars": 13582
           }
         },
         {
@@ -390,10 +390,10 @@
             "archived": false,
             "id": 14303048,
             "language": "C++",
-            "last_commit": "2026-08-27T12:02:00Z",
+            "last_commit": "2026-08-27T18:10:55Z",
             "owner": "mamedev",
             "repo": "mame",
-            "stars": 10425
+            "stars": 10426
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-21T20:07:42Z",
             "owner": "cemu-project",
             "repo": "Cemu",
-            "stars": 9753
+            "stars": 9754
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-09T20:43:13Z",
             "owner": "Vita3K",
             "repo": "Vita3K",
-            "stars": 5660
+            "stars": 5661
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-23T22:29:01Z",
             "owner": "melonDS-emu",
             "repo": "melonDS",
-            "stars": 4970
+            "stars": 4969
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-08-27T05:47:52Z",
             "owner": "xemu-project",
             "repo": "xemu",
-            "stars": 4071
+            "stars": 4070
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-08-13T21:25:38Z",
             "owner": "TASEmulators",
             "repo": "desmume",
-            "stars": 3611
+            "stars": 3612
           }
         },
         {
@@ -495,10 +495,10 @@
             "archived": false,
             "id": 131286494,
             "language": "C++",
-            "last_commit": "2026-08-24T12:43:03Z",
+            "last_commit": "2026-08-27T17:05:34Z",
             "owner": "flyinghead",
             "repo": "flycast",
-            "stars": 2490
+            "stars": 2491
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2026-08-25T12:48:05Z",
             "owner": "RetroDECK",
             "repo": "RetroDECK",
-            "stars": 1253
+            "stars": 1252
           }
         }
       ],
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-27T11:46:31Z",
             "owner": "PrismLauncher",
             "repo": "PrismLauncher",
-            "stars": 10244
+            "stars": 10247
           }
         },
         {
@@ -561,10 +561,10 @@
             "archived": false,
             "id": 106949285,
             "language": "Python",
-            "last_commit": "2026-08-27T10:27:10Z",
+            "last_commit": "2026-08-27T19:05:46Z",
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "stars": 8745
+            "stars": 8747
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2026-08-24T16:41:43Z",
             "owner": "legendary-gl",
             "repo": "legendary",
-            "stars": 5280
+            "stars": 5279
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-08-26T02:49:55Z",
             "owner": "moraroy",
             "repo": "NonSteamLaunchers-On-Steam-Deck",
-            "stars": 4353
+            "stars": 4356
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-24T00:11:36Z",
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 89495
+            "stars": 89518
           }
         },
         {
@@ -645,7 +645,7 @@
             "last_commit": "2026-08-27T10:55:17Z",
             "owner": "LizardByte",
             "repo": "Sunshine",
-            "stars": 40581
+            "stars": 40598
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2026-08-26T06:32:33Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-qt",
-            "stars": 18417
+            "stars": 18423
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-27T11:20:36Z",
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3954
+            "stars": 3956
           }
         },
         {
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-24T13:43:34Z",
             "owner": "unknownskl",
             "repo": "greenlight",
-            "stars": 2844
+            "stars": 2843
           }
         }
       ],
@@ -711,7 +711,7 @@
             "last_commit": "2026-08-25T01:28:51Z",
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88035
+            "stars": 88048
           }
         },
         {
@@ -780,10 +780,10 @@
             "archived": false,
             "id": 273743952,
             "language": "Rust",
-            "last_commit": "2026-08-16T04:24:31Z",
+            "last_commit": "2026-08-27T16:35:23Z",
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6184
+            "stars": 6186
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2026-08-02T21:26:12Z",
             "owner": "SteamDeckHomebrew",
             "repo": "decky-loader",
-            "stars": 7160
+            "stars": 7161
           }
         },
         {
@@ -947,7 +947,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:36.719Z",
+    "last_updated": "2026-08-27T19:54:24.695Z",
     "original_repository_info": {
       "archived": false,
       "id": 664563652,
