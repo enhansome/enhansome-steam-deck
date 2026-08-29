@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox",
+            "homepage": "https://distrobox.it/",
             "id": 429485913,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T07:47:07Z",
+            "open_issues": 147,
             "owner": "89luca89",
             "repo": "distrobox",
-            "stars": 12912
+            "stars": 12913,
+            "topics": [
+              "almalinux",
+              "alpine",
+              "archlinux",
+              "bash",
+              "centos",
+              "command-line",
+              "containers",
+              "debian",
+              "development",
+              "docker",
+              "fedora",
+              "linux",
+              "opensuse",
+              "podman",
+              "posix",
+              "posix-sh",
+              "rockylinux",
+              "suse",
+              "tools",
+              "ubuntu"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -26,12 +52,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs",
+            "homepage": null,
             "id": 274907904,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-27T04:58:14Z",
+            "open_issues": 96,
             "owner": "sonic2kk",
             "repo": "steamtinkerlaunch",
-            "stars": 2836
+            "stars": 2837,
+            "topics": [
+              "bash",
+              "game-command",
+              "game-launch",
+              "games",
+              "hacktoberfest",
+              "linux",
+              "linux-gaming",
+              "native-games",
+              "proton",
+              "steam",
+              "steam-compatibility",
+              "steam-library",
+              "steamgriddb",
+              "steamplay",
+              "stl",
+              "tinker",
+              "wrapper",
+              "yad"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -42,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The bulk game importer and artwork manager for Steam! ",
+            "homepage": "https://steamgriddb.github.io/steam-rom-manager/",
             "id": 89850983,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:30:41Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T22:45:45Z",
+            "open_issues": 66,
             "owner": "SteamGridDB",
             "repo": "steam-rom-manager",
-            "stars": 2543
+            "stars": 2543,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -58,12 +113,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper that does winetricks things for Proton enabled games, requires Winetricks.",
+            "homepage": null,
             "id": 146435241,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T16:39:36Z",
+            "open_issues": 90,
             "owner": "Matoking",
             "repo": "protontricks",
-            "stars": 2299
+            "stars": 2299,
+            "topics": [
+              "hacktoberfest",
+              "proton",
+              "python3",
+              "winetricks"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -74,12 +139,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synchronize games from other platforms into your Steam library",
+            "homepage": null,
             "id": 403282138,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T00:52:10Z",
+            "open_issues": 111,
             "owner": "PhilipK",
             "repo": "BoilR",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "games",
+              "launcher",
+              "linux",
+              "steam",
+              "steamdeck",
+              "synchronization",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -90,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Flatpak permissions",
+            "homepage": null,
             "id": 236465542,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T12:18:34Z",
+            "open_issues": 97,
             "owner": "tchx84",
             "repo": "Flatseal",
-            "stars": 1767
+            "stars": 1767,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -106,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Goverlay is an easy graphical interface to configure linux gaming applications",
+            "homepage": null,
             "id": 485818631,
             "language": "Pascal",
-            "last_commit": "2026-08-28T01:12:12Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:39:11Z",
+            "open_issues": 83,
             "owner": "benjamimgois",
             "repo": "goverlay",
-            "stars": 1459
+            "stars": 1459,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -122,12 +210,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to install Clover - a graphical boot manager for the Steam Deck and Lenovo Legion Go S.",
+            "homepage": "https://www.youtube.com/watch?v=HDnxOw6j3EY&t=975s",
             "id": 587155178,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-04-14T19:42:19Z",
+            "open_issues": 8,
             "owner": "ryanrudolfoba",
             "repo": "SteamDeck-Clover-dualboot",
-            "stars": 758
+            "stars": 758,
+            "topics": [
+              "clover",
+              "dualboot",
+              "refind",
+              "steamdeck",
+              "steamos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -138,12 +238,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatically find games from launchers on your system and import them into your Steam library with a click of a button.",
+            "homepage": "https://www.steamgriddb.com/manager",
             "id": 177771238,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-31T07:47:59Z",
+            "open_issues": 93,
             "owner": "SteamGridDB",
             "repo": "steamgriddb-manager",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "battle-net",
+              "electron",
+              "epic-games-launcher",
+              "gog",
+              "launchers",
+              "origin",
+              "steam",
+              "steam-library",
+              "uplay"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -154,12 +269,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RW OverlayFS for Steam Deck!",
+            "homepage": null,
             "id": 515657276,
             "language": "Shell",
+            "license": "LGPL-2.1",
             "last_commit": "2024-06-24T22:16:48Z",
+            "open_issues": 3,
             "owner": "ValShaped",
             "repo": "rwfus",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "bash-script",
+              "deck",
+              "linux",
+              "overlay",
+              "overlayfs",
+              "pacman",
+              "steam",
+              "steamdeck",
+              "steamos"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -170,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Printing on Steam Deck - no root privileges nor unlocking read only ",
+            "homepage": null,
             "id": 723625164,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-05T01:47:20Z",
+            "open_issues": 2,
             "owner": "Tymose",
             "repo": "Steam-Deck-Printing-ROOTLESS",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -192,12 +327,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
+            "homepage": "https://discordapp.com/invite/Gj5YmBb",
             "id": 236648333,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:38:28Z",
+            "open_issues": 327,
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8981
+            "stars": 8985,
+            "topics": [
+              "benchmarking",
+              "hud",
+              "linux",
+              "monitoring",
+              "opengl",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -208,12 +355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SteamOS session compositing window manager",
+            "homepage": null,
             "id": 217906370,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:32:15Z",
+            "open_issues": 953,
             "owner": "ValveSoftware",
             "repo": "gamescope",
-            "stars": 5025
+            "stars": 5025,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -224,12 +376,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to",
+            "homepage": "https://git.ngni.us/NG-SD-Plugins/PowerTools",
             "id": 483000858,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-09T00:55:29Z",
+            "open_issues": 13,
             "owner": "NGnius",
             "repo": "PowerTools",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "decky",
+              "steam-deck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -240,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decky TDP plugin for PC handhelds + Linux",
+            "homepage": null,
             "id": 717899438,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T21:05:25Z",
+            "open_issues": 19,
             "owner": "aarron-lee",
             "repo": "SimpleDeckyTDP",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -262,12 +427,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loads CSS dynamically into the steam deck game ui",
+            "homepage": null,
             "id": 484420482,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-16T21:46:22Z",
+            "open_issues": 12,
             "owner": "DeckThemes",
             "repo": "SDH-CssLoader",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "css",
+              "steam",
+              "steamdeck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -278,12 +452,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replaces and adds Steam Deck game UI sounds",
+            "homepage": null,
             "id": 525220486,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-22T21:35:37Z",
+            "open_issues": 18,
             "owner": "DeckThemes",
             "repo": "SDH-AudioLoader",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "hacktoberfest",
+              "python",
+              "react",
+              "steam-deck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -300,12 +484,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
+            "homepage": "https://shadps4.net/",
             "id": 556675672,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-27T15:38:58Z",
+            "open_issues": 219,
             "owner": "shadps4-emu",
             "repo": "shadPS4",
-            "stars": 32675
+            "stars": 32680,
+            "topics": [
+              "cpp",
+              "cpp23",
+              "emulation",
+              "emulator",
+              "imgui",
+              "linux",
+              "macos",
+              "playstation4",
+              "ps4",
+              "sdl3",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -316,12 +518,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PlayStation 3 emulator and debugger",
+            "homepage": "https://rpcs3.net/",
             "id": 6520784,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:46:12Z",
+            "open_issues": 1061,
             "owner": "RPCS3",
             "repo": "rpcs3",
-            "stars": 19588
+            "stars": 19594,
+            "topics": [
+              "assembly-language",
+              "c",
+              "cpp",
+              "emulation",
+              "emulator",
+              "llvm",
+              "multiplatform",
+              "opengl",
+              "ps3",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -332,12 +550,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "homepage": "https://dolphin-emu.org",
             "id": 11577304,
             "language": "C++",
-            "last_commit": "2026-08-27T16:48:49Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:19:23Z",
+            "open_issues": 461,
             "owner": "dolphin-emu",
             "repo": "dolphin",
-            "stars": 15455
+            "stars": 15455,
+            "topics": [
+              "cpp",
+              "emulation",
+              "emulator",
+              "gamecube",
+              "wii"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -348,12 +577,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PCSX2 - The Playstation 2 Emulator",
+            "homepage": "https://pcsx2.net",
             "id": 15379620,
             "language": "C++",
-            "last_commit": "2026-08-28T20:19:21Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T22:18:38Z",
+            "open_issues": 828,
             "owner": "PCSX2",
             "repo": "pcsx2",
-            "stars": 15389
+            "stars": 15403,
+            "topics": [
+              "cpp",
+              "emulation",
+              "emulator",
+              "pcsx2",
+              "ps2"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -364,12 +604,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
+            "homepage": "https://www.ppsspp.org",
             "id": 6486826,
             "language": "C++",
-            "last_commit": "2026-08-28T20:44:20Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:27:43Z",
+            "open_issues": 1371,
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14319
+            "stars": 14320,
+            "topics": [
+              "emulators",
+              "ppsspp",
+              "psp"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -380,12 +629,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+            "homepage": "http://www.libretro.com",
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-28T02:50:57Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T00:21:41Z",
+            "open_issues": 3009,
             "owner": "libretro",
             "repo": "RetroArch",
-            "stars": 13689
+            "stars": 13700,
+            "topics": [
+              "c",
+              "libretro",
+              "retroarch"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -396,12 +654,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "homepage": null,
             "id": 207245092,
             "language": "C++",
-            "last_commit": "2026-08-28T07:16:25Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:28:50Z",
+            "open_issues": 76,
             "owner": "stenzek",
             "repo": "duckstation",
-            "stars": 10588
+            "stars": 10589,
+            "topics": [
+              "appimage",
+              "emulator",
+              "enhancements",
+              "fast",
+              "hardware-renderers",
+              "jit-compiler",
+              "opengl",
+              "playstation",
+              "ps1",
+              "psx",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -412,12 +687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAME",
+            "homepage": "https://www.mamedev.org/",
             "id": 14303048,
             "language": "C++",
-            "last_commit": "2026-08-28T19:30:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:32:00Z",
+            "open_issues": 869,
             "owner": "mamedev",
             "repo": "mame",
-            "stars": 10427
+            "stars": 10427,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -428,12 +708,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cemu - Wii U emulator",
+            "homepage": "https://cemu.info",
             "id": 527719753,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-21T20:07:42Z",
+            "open_issues": 396,
             "owner": "cemu-project",
             "repo": "Cemu",
-            "stars": 9763
+            "stars": 9763,
+            "topics": [
+              "cemu",
+              "cemu-emulator",
+              "cpp",
+              "emulation",
+              "emulator",
+              "nintendo",
+              "wiiu"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -444,12 +737,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental PlayStation Vita emulator",
+            "homepage": "https://vita3k.org/",
             "id": 119111364,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-09T20:43:13Z",
+            "open_issues": 210,
             "owner": "Vita3K",
             "repo": "Vita3K",
-            "stars": 5667
+            "stars": 5669,
+            "topics": [
+              "cpp",
+              "emulation",
+              "emulator",
+              "hacktoberfest",
+              "playstation",
+              "ps-vita",
+              "psvita",
+              "vita"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -460,12 +767,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DS emulator, sorta",
+            "homepage": "https://melonds.kuribo64.net",
             "id": 58894582,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T22:29:01Z",
+            "open_issues": 1040,
             "owner": "melonDS-emu",
             "repo": "melonDS",
-            "stars": 4969
+            "stars": 4973,
+            "topics": [
+              "dsi",
+              "emulator",
+              "nds"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -476,12 +792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
+            "homepage": "https://xemu.app",
             "id": 241270996,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T05:47:52Z",
+            "open_issues": 960,
             "owner": "xemu-project",
             "repo": "xemu",
-            "stars": 4075
+            "stars": 4075,
+            "topics": [
+              "emulation",
+              "emulator",
+              "hacktoberfest",
+              "original-xbox",
+              "xbox"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -492,12 +819,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeSmuME is a Nintendo DS emulator",
+            "homepage": "http://desmume.org",
             "id": 74630515,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-13T21:25:38Z",
+            "open_issues": 92,
             "owner": "TASEmulators",
             "repo": "desmume",
-            "stars": 3615
+            "stars": 3615,
+            "topics": [
+              "arm",
+              "c-plus-plus",
+              "cpp",
+              "emulation",
+              "emulator",
+              "nds"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -508,12 +847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulator configurator for Steam Deck",
+            "homepage": null,
             "id": 471993449,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T11:47:42Z",
+            "open_issues": 91,
             "owner": "dragoonDorise",
             "repo": "EmuDeck",
-            "stars": 3492
+            "stars": 3493,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -524,12 +868,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator",
+            "homepage": null,
             "id": 131286494,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T12:55:30Z",
+            "open_issues": 292,
             "owner": "flyinghead",
             "repo": "flycast",
-            "stars": 2492
+            "stars": 2494,
+            "topics": [
+              "emulation",
+              "emulator",
+              "sega-dreamcast",
+              "sega-naomi"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -540,12 +894,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.",
+            "homepage": null,
             "id": 248757535,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T06:55:52Z",
+            "open_issues": 151,
             "owner": "bsnes-emu",
             "repo": "bsnes",
-            "stars": 1976
+            "stars": 1976,
+            "topics": [
+              "emulation",
+              "emulator",
+              "snes",
+              "snes-emulator"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -556,12 +920,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RetroDECK is a powerful all-in-one retro gaming platform designed for handheld gaming PCs like the Steam Deck, full Linux desktops, Linux HTPC setups, and Linux-based PC consoles such as the Steam Machine. ",
+            "homepage": "https://retrodeck.net",
             "id": 468571027,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T12:48:05Z",
+            "open_issues": 299,
             "owner": "RetroDECK",
             "repo": "RetroDECK",
-            "stars": 1252
+            "stars": 1252,
+            "topics": [
+              "emulation",
+              "games",
+              "gaming",
+              "retro",
+              "retro-gaming",
+              "retrogaming",
+              "roms",
+              "steam",
+              "steamdeck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -578,12 +957,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+            "homepage": "https://prismlauncher.org",
             "id": 553135896,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T16:12:46Z",
+            "open_issues": 763,
             "owner": "PrismLauncher",
             "repo": "PrismLauncher",
-            "stars": 10258
+            "stars": 10259,
+            "topics": [
+              "cpp",
+              "cpp20",
+              "fabricmc",
+              "forge",
+              "linux",
+              "minecraft",
+              "minecraft-launcher",
+              "modrinth",
+              "multimc",
+              "prismlauncher",
+              "qt",
+              "qt6",
+              "quiltmc"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -594,12 +992,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Windows software and games on Linux",
+            "homepage": "https://usebottles.com",
             "id": 106949285,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T10:44:31Z",
+            "open_issues": 12,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "stars": 8751
+            "stars": 8751,
+            "topics": [
+              "bottles",
+              "bottles-versioning",
+              "dxvk",
+              "games",
+              "gaming",
+              "gtk4",
+              "libadwaita",
+              "linux",
+              "msi",
+              "proton",
+              "python",
+              "wine",
+              "wine-prefixes",
+              "wineprefix",
+              "wineprefix-manager"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -610,12 +1029,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Legendary - A free and open-source replacement for the Epic Games Launcher",
+            "homepage": "https://legendary.gl/discord",
             "id": 249938026,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T16:41:43Z",
+            "open_issues": 109,
             "owner": "legendary-gl",
             "repo": "legendary",
-            "stars": 5280
+            "stars": 5280,
+            "topics": [
+              "epic-games",
+              "epic-games-client",
+              "epic-games-launcher",
+              "epicgames-launcher",
+              "linux-gaming"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -626,12 +1056,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Installs the latest UMU/GE-Proton and Non Steam Launchers under 1 Proton prefix folder and adds them to your steam library. Installs... Battle.net, Epic Games, Ubisoft, GOG, EA App, Amazon Games, itch.io , Legacy Games, The Humble Games Collection, IndieGala, Rockstar Games Launcher,PS Plus, Glyph, VKPlay & HoYoPlay, Waydroid and Games on SD Card.",
+            "homepage": "https://github.com/sponsors/moraroy",
             "id": 633174709,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:41:46Z",
+            "open_issues": 157,
             "owner": "moraroy",
             "repo": "NonSteamLaunchers-On-Steam-Deck",
-            "stars": 4359
+            "stars": 4358,
+            "topics": [
+              "deck",
+              "machine",
+              "nonsteam",
+              "steam"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -642,12 +1082,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple GOG client for Linux",
+            "homepage": "https://sharkwouter.github.io/minigalaxy/",
             "id": 163598129,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T15:05:50Z",
+            "open_issues": 96,
             "owner": "sharkwouter",
             "repo": "minigalaxy",
-            "stars": 1325
+            "stars": 1325,
+            "topics": [
+              "games",
+              "gog",
+              "gog-client",
+              "hacktoberfest",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -664,12 +1115,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "homepage": "https://localsend.org",
             "id": 578822531,
             "language": "Dart",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:00:32Z",
+            "open_issues": 1102,
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 89590
+            "stars": 89607,
+            "topics": [
+              "dart",
+              "file-sharing",
+              "flutter",
+              "flutter-apps"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -680,12 +1141,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted game stream host for Moonlight.",
+            "homepage": "http://app.lizardbyte.dev/Sunshine/",
             "id": 438803890,
             "language": "C++",
-            "last_commit": "2026-08-28T20:41:45Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T04:10:22Z",
+            "open_issues": 151,
             "owner": "LizardByte",
             "repo": "Sunshine",
-            "stars": 40638
+            "stars": 40645,
+            "topics": [
+              "cpm",
+              "cpp",
+              "docker",
+              "flathub-pkg",
+              "game-stream",
+              "game-streaming",
+              "game-streaming-server",
+              "geforce-experience",
+              "homebrew-pkg",
+              "maintainer-wanted",
+              "moonlight",
+              "pacman-pkg",
+              "remote-desktop",
+              "replicator-custom-issues",
+              "replicator-release-notifications",
+              "rtd",
+              "winget-pkg"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -696,12 +1180,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+            "homepage": null,
             "id": 131449222,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T06:32:33Z",
+            "open_issues": 558,
             "owner": "moonlight-stream",
             "repo": "moonlight-qt",
-            "stars": 18438
+            "stars": 18440,
+            "topics": [
+              "gamestream",
+              "linux-app",
+              "macos-app",
+              "moonlight",
+              "nvidia",
+              "qt",
+              "sdl2",
+              "steam-link",
+              "windows-app"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -712,12 +1211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-platform app that allows your devices to communicate",
+            "homepage": "https://invent.kde.org/network/kdeconnect-kde",
             "id": 42725503,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T11:20:36Z",
+            "open_issues": 0,
             "owner": "KDE",
             "repo": "kdeconnect-kde",
-            "stars": 3957
+            "stars": 3957,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -728,12 +1232,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Greenlight is an open-source client for xCloud and Xbox home streaming made in Typescript.",
+            "homepage": "https://unknownskl.github.io/greenlight/",
             "id": 386752959,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T13:43:34Z",
+            "open_issues": 234,
             "owner": "unknownskl",
             "repo": "greenlight",
-            "stars": 2844
+            "stars": 2844,
+            "topics": [
+              "streaming",
+              "xbox",
+              "xcloud"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -750,12 +1263,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Continuous File Synchronization",
+            "homepage": "https://syncthing.net/",
             "id": 14712850,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T01:28:51Z",
+            "open_issues": 379,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 88086
+            "stars": 88092,
+            "topics": [
+              "go",
+              "p2p",
+              "peer-to-peer",
+              "synchronization"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -766,12 +1289,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tool used for syncing your save games across your devices ",
+            "homepage": null,
             "id": 582196187,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-20T18:07:48Z",
+            "open_issues": 24,
             "owner": "DavidDeSimone",
             "repo": "OpenCloudSaves",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "cloud",
+              "cross-platform",
+              "games",
+              "golang",
+              "save-files",
+              "save-manager",
+              "savegame",
+              "steam",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -788,12 +1326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "btrfs: find compression type/ratio on a file or set of files",
+            "homepage": null,
             "id": 102370743,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-25T11:30:56Z",
+            "open_issues": 22,
             "owner": "kilobyte",
             "repo": "compsize",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -804,12 +1347,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Decky Loader plugin for tidying up your Steam Deck's storage. Quickly visualize, select and clear shader cache and compatibility data.",
+            "homepage": "https://plugins.deckbrew.xyz/",
             "id": 617724924,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-08T02:32:07Z",
+            "open_issues": 7,
             "owner": "mcarlucci",
             "repo": "decky-storage-cleaner",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "cache",
+              "cleaner",
+              "compat",
+              "compatibility",
+              "data",
+              "decky",
+              "decky-loader",
+              "plugin",
+              "shader",
+              "steam",
+              "steamdeck",
+              "storage",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -826,12 +1388,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backup tool for PC game saves",
+            "homepage": null,
             "id": 273743952,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:35:23Z",
+            "open_issues": 62,
             "owner": "mtkennerly",
             "repo": "ludusavi",
-            "stars": 6192
+            "stars": 6192,
+            "topics": [
+              "backup",
+              "cli",
+              "cross-platform",
+              "games",
+              "gui",
+              "saves",
+              "steam",
+              "steam-deck",
+              "steam-proton",
+              "steamdeck",
+              "videogames"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -842,12 +1421,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A utility to improve performance and help manage storage on Steam Deck.",
+            "homepage": null,
             "id": 559577091,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-04T12:12:58Z",
+            "open_issues": 68,
             "owner": "CryoByte33",
             "repo": "steam-deck-utilities",
-            "stars": 3533
+            "stars": 3533,
+            "topics": [
+              "steam-deck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -858,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to Purge The Steam Decks Shader Cache",
+            "homepage": null,
             "id": 475512426,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-08T23:22:42Z",
+            "open_issues": 20,
             "owner": "scawp",
             "repo": "Steam-Deck.Shader-Cache-Killer",
-            "stars": 490
+            "stars": 490,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -874,12 +1465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script that creates human readable symlinks for Proton game prefix (Steam Deck / SteamOS)",
+            "homepage": null,
             "id": 642739233,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-22T07:10:54Z",
+            "open_issues": 4,
             "owner": "Jannomag",
             "repo": "shortix",
-            "stars": 163
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -896,12 +1492,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin loader for the Steam Deck.",
+            "homepage": "https://decky.xyz",
             "id": 476217448,
             "language": "TypeScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-02T21:26:12Z",
+            "open_issues": 114,
             "owner": "SteamDeckHomebrew",
             "repo": "decky-loader",
-            "stars": 7165
+            "stars": 7164,
+            "topics": [
+              "plugins",
+              "python",
+              "steam",
+              "steamdeck",
+              "steamos"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -912,12 +1519,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for Decky Loader to apply and manage custom art assets from within gaming mode.",
+            "homepage": null,
             "id": 574922611,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-09T14:05:36Z",
+            "open_issues": 25,
             "owner": "SteamGridDB",
             "repo": "decky-steamgriddb",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "decky",
+              "plugin",
+              "steam",
+              "steamdeck"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -928,12 +1545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for the Steam Deck, to adjust color settings, like saturation or gamma",
+            "homepage": null,
             "id": 520862273,
             "language": "TypeScript",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-28T14:02:21Z",
+            "open_issues": 26,
             "owner": "libvibrant",
             "repo": "vibrantDeck",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -944,12 +1566,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decky Loader Plugin for Steam Deck to Pause and Resume games",
+            "homepage": null,
             "id": 525806974,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-21T19:54:11Z",
+            "open_issues": 25,
             "owner": "popsUlfr",
             "repo": "SDH-PauseGames",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "decky-loader",
+              "game",
+              "pause",
+              "plugin",
+              "python",
+              "quick-resume",
+              "react",
+              "sigcont",
+              "signal",
+              "sigstop",
+              "steam",
+              "steam-deck",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -960,12 +1601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin to show you game lengths according to How Long To Beat",
+            "homepage": null,
             "id": 557686219,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-20T13:43:31Z",
+            "open_issues": 18,
             "owner": "hulkrelax",
             "repo": "hltb-for-deck",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -976,12 +1622,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A decky-loader plugin to manage, notify, and/or automatically update your steamdeck flatpaks without DesktopMode.",
+            "homepage": null,
             "id": 562424346,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-02T00:04:14Z",
+            "open_issues": 10,
             "owner": "jurassicplayer",
             "repo": "decky-autoflatpaks",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         },
@@ -992,12 +1645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A decky-loader plugin to automatically notify and suspend your steamdeck on low power.",
+            "homepage": null,
             "id": 558222548,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-25T13:03:02Z",
+            "open_issues": 13,
             "owner": "jurassicplayer",
             "repo": "decky-autosuspend",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:33.637Z"
         }
@@ -1006,15 +1664,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:33.637Z",
+    "last_updated": "2026-08-29T04:39:20.049Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Steam Deck software, resources and more.",
+      "homepage": "https://ghio.airscript.it/awesome-steam-deck/",
       "id": 664563652,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-09T20:41:30Z",
+      "open_issues": 3,
       "owner": "airscripts",
       "repo": "awesome-steam-deck",
-      "stars": 746
+      "stars": 747,
+      "topics": [
+        "airscript",
+        "airscripts",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "handheld",
+        "sindresorhus",
+        "steam",
+        "steam-deck",
+        "valve"
+      ]
     },
     "original_repository_sha": "d637e540a2fbdd83540a8fb73c581722091d5ba5",
     "enhanced_repository": "enhansome/enhansome-steam-deck",
