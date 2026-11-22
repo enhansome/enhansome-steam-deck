@@ -101,14 +101,14 @@ Choose what you find more suitable for you:
 
 ## Software
 
-* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 13,132 | 🐛 159 | 🌐 Go | 📅 2026-11-18 - Use any Linux distribution inside your terminal.
-* [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) ⭐ 2,863 | 🐛 100 | 🌐 Shell | 📅 2025-12-27 - Advanced game launch customization and tweaking.
-* [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) ⭐ 2,619 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-21 - An app for managing ROMs in Steam.
-* [Protontricks](https://github.com/Matoking/protontricks) ⭐ 2,339 | 🐛 99 | 🌐 Python | 📅 2026-11-21 - Configure Proton prefixes for Steam games.
-* [BoilR](https://github.com/PhilipK/BoilR) ⭐ 1,940 | 🐛 64 | 🌐 Rust | 📅 2026-11-19 - Synchronize non-Steam games with your Steam library.
-* [Flatseal](https://github.com/tchx84/Flatseal) ⭐ 1,825 | 🐛 98 | 🌐 JavaScript | 📅 2026-11-11 - Manage Flatpak permissions with a GUI.
-* [GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,606 | 🐛 91 | 🌐 Pascal | 📅 2026-11-21 - Graphical UI for MangoHud configuration.
-* [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) ⭐ 770 | 🐛 11 | 🌐 Shell | 📅 2026-09-08 - Graphical boot manager for the Steam Deck.
+* [Distrobox](https://github.com/89luca89/distrobox) ⭐ 13,135 | 🐛 160 | 🌐 Go | 📅 2026-11-18 - Use any Linux distribution inside your terminal.
+* [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) ⭐ 2,865 | 🐛 101 | 🌐 Shell | 📅 2025-12-27 - Advanced game launch customization and tweaking.
+* [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) ⭐ 2,619 | 🐛 28 | 🌐 TypeScript | 📅 2026-11-22 - An app for managing ROMs in Steam.
+* [Protontricks](https://github.com/Matoking/protontricks) ⭐ 2,340 | 🐛 100 | 🌐 Python | 📅 2026-11-21 - Configure Proton prefixes for Steam games.
+* [BoilR](https://github.com/PhilipK/BoilR) ⭐ 1,940 | 🐛 65 | 🌐 Rust | 📅 2026-11-19 - Synchronize non-Steam games with your Steam library.
+* [Flatseal](https://github.com/tchx84/Flatseal) ⭐ 1,825 | 🐛 97 | 🌐 JavaScript | 📅 2026-11-22 - Manage Flatpak permissions with a GUI.
+* [GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,605 | 🐛 94 | 🌐 Pascal | 📅 2026-11-21 - Graphical UI for MangoHud configuration.
+* [Clover](https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot) ⭐ 771 | 🐛 11 | 🌐 Shell | 📅 2026-09-08 - Graphical boot manager for the Steam Deck.
 * [SteamGridDB Manager](https://github.com/SteamGridDB/steamgriddb-manager) ⚠️ Archived - Apply artwork for non-Steam games automatically.
 * [rwfus](https://github.com/ValShaped/rwfus) ⭐ 256 | 🐛 3 | 🌐 Shell | 📅 2024-06-24 - Read and write OverlayFS for Steam Deck.
 * [Steam Deck Printing Rootless](https://github.com/Tymose/Steam-Deck-Printing-ROOTLESS) ⭐ 9 | 🐛 2 | 🌐 Shell | 📅 2024-03-05 - Utility that lets you print on the Steam Deck rootlessly and that survives updates as well.
@@ -120,8 +120,8 @@ Choose what you find more suitable for you:
 
 ## Performance
 
-* [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,255 | 🐛 359 | 🌐 C | 📅 2026-11-15 - Vulkan/OpenGL performance overlay (FPS, temps, CPU/GPU usage).
-* [Gamescope](https://github.com/ValveSoftware/gamescope) ⭐ 5,230 | 🐛 1,015 | 🌐 C++ | 📅 2026-11-18 - Micro-compositor for resolution scaling, frame limiting, and latency improvements.
+* [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,259 | 🐛 355 | 🌐 C | 📅 2026-11-22 - Vulkan/OpenGL performance overlay (FPS, temps, CPU/GPU usage).
+* [Gamescope](https://github.com/ValveSoftware/gamescope) ⭐ 5,234 | 🐛 1,015 | 🌐 C++ | 📅 2026-11-18 - Micro-compositor for resolution scaling, frame limiting, and latency improvements.
 * [PowerTools](https://github.com/NGnius/PowerTools) ⚠️ Archived - Decky plugin for advanced CPU, GPU, and power management.
 * [SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) ⭐ 306 | 🐛 22 | 🌐 Python | 📅 2026-11-20 - Decky plugin with simplified TDP controls for Steam Deck.
 * [ShareDeck](https://sharedeck.games/) - Community database of Steam Deck performance settings for games.
@@ -130,7 +130,7 @@ Choose what you find more suitable for you:
 ## Customization
 
 * [CSS Loader](https://github.com/suchmememanyskill/SDH-CssLoader) ⭐ 156 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-08 - Decky plugin to apply custom themes to Steam Deck UI.
-* [Audio Loader](https://github.com/EMERALD0874/SDH-AudioLoader) ⭐ 44 | 🐛 22 | 🌐 TypeScript | 📅 2025-09-22 - Decky plugin for custom boot and suspend sounds.
+* [Audio Loader](https://github.com/EMERALD0874/SDH-AudioLoader) ⭐ 44 | 🐛 21 | 🌐 TypeScript | 📅 2025-09-22 - Decky plugin for custom boot and suspend sounds.
 * [Steam Deck Repo](https://steamdeckrepo.com/) - Custom boot videos and animations.
 
 ## Power Management
@@ -139,50 +139,50 @@ Choose what you find more suitable for you:
 
 ## Emulation
 
-* [shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐ 34,330 | 🐛 338 | 🌐 C++ | 📅 2026-11-20 - PS4 Emulator.
-* [RPCS3](https://github.com/RPCS3/rpcs3) ⭐ 20,485 | 🐛 1,068 | 🌐 C++ | 📅 2026-11-21 - PS3 Emulator.
-* [PCSX2](https://github.com/PCSX2/pcsx2) ⭐ 16,112 | 🐛 807 | 🌐 C++ | 📅 2026-11-21 - PS2 Emulator.
-* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 15,859 | 🐛 485 | 🌐 C++ | 📅 2026-11-21 - Gamecube/Wii Emulator.
-* [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 14,958 | 🐛 920 | 🌐 C++ | 📅 2026-11-21 - PSP Emulator.
-* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 14,666 | 🐛 2,958 | 🌐 C | 📅 2026-11-21 - Frontend for emulators, game engines and media players.
-* [DuckStation](https://github.com/stenzek/duckstation) ⭐ 11,036 | 🐛 73 | 🌐 C++ | 📅 2026-11-21 - Fast and accurate PlayStation 1 emulator.
-* [MAME](https://github.com/mamedev/mame) ⭐ 10,735 | 🐛 1,050 | 🌐 C++ | 📅 2026-11-21 - Arcade machine emulator.
-* [Cemu](https://github.com/cemu-project/Cemu) ⭐ 10,231 | 🐛 415 | 🌐 C++ | 📅 2026-11-20 - Wii U emulator with excellent compatibility.
-* [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,993 | 🐛 253 | 🌐 C++ | 📅 2026-11-21 - PS Vita Emulator.
-* [melonDS](https://github.com/melonDS-emu/melonDS) ⭐ 5,234 | 🐛 1,092 | 🌐 C++ | 📅 2026-11-18 - Nintendo DS emulator with local multiplayer support.
-* [xemu](https://github.com/xemu-project/xemu) ⭐ 4,285 | 🐛 954 | 🌐 C | 📅 2026-11-16 - Xbox Emulator.
-* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,694 | 🐛 100 | 🌐 C++ | 📅 2026-11-21 - Nintendo DS Emulator.
+* [shadPS4](https://github.com/shadps4-emu/shadPS4) ⭐ 34,341 | 🐛 340 | 🌐 C++ | 📅 2026-11-22 - PS4 Emulator.
+* [RPCS3](https://github.com/RPCS3/rpcs3) ⭐ 20,488 | 🐛 1,070 | 🌐 C++ | 📅 2026-11-21 - PS3 Emulator.
+* [PCSX2](https://github.com/PCSX2/pcsx2) ⭐ 16,114 | 🐛 808 | 🌐 C++ | 📅 2026-11-22 - PS2 Emulator.
+* [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 15,866 | 🐛 490 | 🌐 C++ | 📅 2026-11-22 - Gamecube/Wii Emulator.
+* [PPSSPP](https://github.com/hrydgard/ppsspp) ⭐ 14,968 | 🐛 880 | 🌐 C++ | 📅 2026-11-22 - PSP Emulator.
+* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 14,675 | 🐛 2,966 | 🌐 C | 📅 2026-11-22 - Frontend for emulators, game engines and media players.
+* [DuckStation](https://github.com/stenzek/duckstation) ⭐ 11,042 | 🐛 73 | 🌐 C++ | 📅 2026-11-22 - Fast and accurate PlayStation 1 emulator.
+* [MAME](https://github.com/mamedev/mame) ⭐ 10,737 | 🐛 1,050 | 🌐 C++ | 📅 2026-11-22 - Arcade machine emulator.
+* [Cemu](https://github.com/cemu-project/Cemu) ⭐ 10,237 | 🐛 415 | 🌐 C++ | 📅 2026-11-20 - Wii U emulator with excellent compatibility.
+* [Vita3K](https://github.com/Vita3K/Vita3K) ⭐ 5,997 | 🐛 253 | 🌐 C++ | 📅 2026-11-21 - PS Vita Emulator.
+* [melonDS](https://github.com/melonDS-emu/melonDS) ⭐ 5,237 | 🐛 1,092 | 🌐 C++ | 📅 2026-11-18 - Nintendo DS emulator with local multiplayer support.
+* [xemu](https://github.com/xemu-project/xemu) ⭐ 4,293 | 🐛 954 | 🌐 C | 📅 2026-11-16 - Xbox Emulator.
+* [DeSmuME](https://github.com/TASEmulators/desmume) ⭐ 3,697 | 🐛 101 | 🌐 C++ | 📅 2026-11-22 - Nintendo DS Emulator.
 * [EmuDeck](https://github.com/dragoonDorise/EmuDeck) ⭐ 3,546 | 🐛 103 | 🌐 Shell | 📅 2026-11-20 - Emulator configurator.
-* [Flycast](https://github.com/flyinghead/flycast) ⭐ 2,668 | 🐛 329 | 🌐 C++ | 📅 2026-11-21 - Sega Dreamcast/Naomi emulator.
+* [Flycast](https://github.com/flyinghead/flycast) ⭐ 2,668 | 🐛 334 | 🌐 C++ | 📅 2026-11-22 - Sega Dreamcast/Naomi emulator.
 * [bsnes](https://github.com/bsnes-emu/bsnes) ⭐ 2,020 | 🐛 158 | 🌐 C++ | 📅 2026-10-07 - SNES Emulator.
-* [RetroDECK](https://github.com/XargonWan/RetroDECK) ⭐ 1,320 | 🐛 277 | 🌐 Shell | 📅 2026-11-13 - All-in-one sandboxed application to play your retro games.
+* [RetroDECK](https://github.com/XargonWan/RetroDECK) ⭐ 1,321 | 🐛 277 | 🌐 Shell | 📅 2026-11-13 - All-in-one sandboxed application to play your retro games.
 * [EmulationStation DE](https://gitlab.com/es-de/emulationstation-de) - Frontend for browsing and launching games from various collections.
 
 ## Launcher
 
-* [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) ⭐ 11,183 | 🐛 802 | 🌐 C++ | 📅 2026-11-21 - Minecraft launcher with mod support.
-* [Bottles](https://github.com/bottlesdevs/Bottles) ⭐ 9,089 | 🐛 21 | 🌐 Python | 📅 2026-11-17 - Run Windows software and games under Linux.
-* [Legendary](https://github.com/derrod/legendary) ⭐ 5,361 | 🐛 120 | 🌐 Python | 📅 2026-11-04 - CLI launcher for Epic Games Store.
-* [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) ⭐ 4,439 | 🐛 158 | 🌐 Python | 📅 2026-11-19 - Automatic installation of the most popular launchers.
-* [Minigalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,331 | 🐛 86 | 🌐 Python | 📅 2026-11-03 - Lightweight GOG client for Linux.
+* [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) ⭐ 11,196 | 🐛 805 | 🌐 C++ | 📅 2026-11-22 - Minecraft launcher with mod support.
+* [Bottles](https://github.com/bottlesdevs/Bottles) ⭐ 9,093 | 🐛 22 | 🌐 Python | 📅 2026-11-17 - Run Windows software and games under Linux.
+* [Legendary](https://github.com/derrod/legendary) ⭐ 5,361 | 🐛 119 | 🌐 Python | 📅 2026-11-04 - CLI launcher for Epic Games Store.
+* [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) ⭐ 4,441 | 🐛 158 | 🌐 Python | 📅 2026-11-19 - Automatic installation of the most popular launchers.
+* [Minigalaxy](https://github.com/sharkwouter/minigalaxy) ⭐ 1,332 | 🐛 86 | 🌐 Python | 📅 2026-11-03 - Lightweight GOG client for Linux.
 * [Lutris](https://lutris.net/) - Open gaming platform.
 * [Heroic](https://heroicgameslauncher.com/) - Epic Games and GOG launcher.
 * [Itch](https://itch.io/app) - Indie game platform client.
 
 ## Remote
 
-* [LocalSend](https://github.com/localsend/localsend) ⭐ 100,104 | 🐛 1,046 | 🌐 Dart | 📅 2026-11-21 - Open source app to share files between devices over your local network.
-* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 43,703 | 🐛 175 | 🌐 C++ | 📅 2026-11-21 - Self-hosted game stream host (pairs with Moonlight).
-* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,653 | 🐛 590 | 🌐 C++ | 📅 2026-11-20 - Stream games from PC with NVIDIA GPU.
-* [KDE Connect](https://github.com/KDE/kdeconnect-kde) ⭐ 4,179 | 🐛 0 | 🌐 C++ | 📅 2026-11-21 - Multi-platform app that allows your devices to communicate.
-* [Greenlight](https://github.com/unknownskl/greenlight) ⭐ 2,979 | 🐛 263 | 🌐 TypeScript | 📅 2026-11-16 - An open source client for streaming Xbox Cloud and Xbox Home.
+* [LocalSend](https://github.com/localsend/localsend) ⭐ 100,271 | 🐛 1,041 | 🌐 Dart | 📅 2026-11-22 - Open source app to share files between devices over your local network.
+* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 43,748 | 🐛 183 | 🌐 C++ | 📅 2026-11-22 - Self-hosted game stream host (pairs with Moonlight).
+* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 19,686 | 🐛 591 | 🌐 C++ | 📅 2026-11-20 - Stream games from PC with NVIDIA GPU.
+* [KDE Connect](https://github.com/KDE/kdeconnect-kde) ⭐ 4,182 | 🐛 0 | 🌐 C++ | 📅 2026-11-22 - Multi-platform app that allows your devices to communicate.
+* [Greenlight](https://github.com/unknownskl/greenlight) ⭐ 2,987 | 🐛 263 | 🌐 TypeScript | 📅 2026-11-16 - An open source client for streaming Xbox Cloud and Xbox Home.
 * [Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) - Free and open source software client for PlayStation 4 and PlayStation 5 Remote Play.
 * [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Extend your Steam gaming experience to more devices.
 * [Parsec](https://parsec.app/) - Low-latency game streaming and co-op gaming.
 
 ## File Management
 
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,667 | 🐛 406 | 🌐 Go | 📅 2026-11-21 - Open source continuous file synchronization.
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 90,706 | 🐛 406 | 🌐 Go | 📅 2026-11-22 - Open source continuous file synchronization.
 * [OpenCloudSaves](https://github.com/DavidDeSimone/OpenCloudSaves) ⚠️ Archived - A tool used for syncing your save games across your devices.
 * [Deck Drive Manager](https://deckdrivemanager.com/) - Copy PC games from PC to Steam Deck drives.
 
@@ -193,7 +193,7 @@ Choose what you find more suitable for you:
 
 ## Utility
 
-* [Ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,593 | 🐛 64 | 🌐 Rust | 📅 2026-11-09 - Backup tool for PC game saves.
+* [Ludusavi](https://github.com/mtkennerly/ludusavi) ⭐ 6,601 | 🐛 64 | 🌐 Rust | 📅 2026-11-09 - Backup tool for PC game saves.
 * [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) ⭐ 3,539 | 🐛 68 | 🌐 Go | 📅 2024-02-04 - Scripts and utilities to improve performance and manage storage.
 * [Steam Deck Shader Cache Killer](https://github.com/scawp/Steam-Deck.Shader-Cache-Killer) ⭐ 494 | 🐛 20 | 🌐 Shell | 📅 2024-07-08 - Script to purge Steam Deck shader cache.
 * [Shortix](https://github.com/Jannomag/shortix) ⭐ 163 | 🐛 4 | 🌐 Shell | 📅 2024-12-22 - A script that creates human readable symlinks for Proton game prefixes.
@@ -206,7 +206,7 @@ Choose what you find more suitable for you:
 
 ## Plugin
 
-* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 7,520 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-27 - Plugin launcher.
+* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) ⭐ 7,525 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-22 - Plugin launcher.
 * [SteamGridDB Plugin](https://github.com/SteamGridDB/decky-steamgriddb) ⭐ 331 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-10 - Browse and apply custom game artwork directly from Steam Deck.
 * [VibrantDeck](https://github.com/libvibrant/vibrantDeck) ⭐ 155 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-21 - Control display saturation and vibrance.
 * [Pause Games](https://github.com/popsUlfr/SDH-PauseGames) ⭐ 122 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-21 - Pause any game, even those without native pause functionality.
@@ -266,4 +266,4 @@ Choose what you find more suitable for you:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
